@@ -100,7 +100,7 @@
  * ------------------------------------------------------------------- 
  */
  h1, h2, .h01, .h02 {
- 	font-family: "poppins-semibold",  sans-serif;
+ 	font-family: sans-serif;
  	color: #313131;
  	font-style: normal;
  	text-rendering: optimizeLegibility;
@@ -1670,7 +1670,7 @@ h3, h4, h5, h6, .h03, .h04, .h05, .h06 {
  }
  #resume .resume-header h2 {
  	color: #D9365D;
- 	margin-bottom: 1rem;
+ 	margin-bottom: 0.5rem;
  }
 
  #resume .resume-header h4 {
@@ -1761,7 +1761,7 @@ h3, h4, h5, h6, .h03, .h04, .h05, .h06 {
  	
  	#resume .resume-header h2 {
  		font-size: 2rem;
- 		margin-bottom: 1rem;
+ 		margin-bottom: 0.5rem;
  	}
 
  	#resume .timeline-header {
@@ -1793,7 +1793,7 @@ h3, h4, h5, h6, .h03, .h04, .h05, .h06 {
 
  	#resume .resume-header h2 {
  		font-size: 2rem;
- 		margin-bottom: 1rem;
+ 		margin-bottom: 0.5rem;
  	}
 
  	#resume .timeline-header h3 {
@@ -1823,7 +1823,7 @@ h3, h4, h5, h6, .h03, .h04, .h05, .h06 {
  @media only screen and (max-width:480px) {
  	#resume .resume-header h2 {
  		font-size: 2rem;
- 		margin-bottom: 1rem;
+ 		margin-bottom: 0.5rem;
  	}
  	#resume .timeline-wrap::before {
  		left: 1.8rem;
