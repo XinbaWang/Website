@@ -100,7 +100,7 @@
  * ------------------------------------------------------------------- 
  */
  h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
- 	font-family: "poppins-semibold",  sans-serif;
+ 	font-family: "poppins",  sans-serif;
  	color: #313131;
  	font-style: normal;
 	font-weight: bold;
@@ -111,7 +111,7 @@
  	margin-bottom: 1.8rem;
  }
  h5, .h05, h6, .h06 {
- 	font-family: "poppins-bold", sans-serif;
+ 	font-family: "poppins", sans-serif;
  	margin-bottom: 1.2rem;
  }
  h1, .h01 {
@@ -223,7 +223,7 @@
  	border: none;
  }
  abbr {
- 	font-family: "poppins-bold", serif;
+ 	font-family: "poppins", serif;
  	font-variant: small-caps;
  	text-transform: lowercase;
  	letter-spacing: .05rem;
