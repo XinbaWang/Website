@@ -1318,7 +1318,7 @@ h3, h4, h5, h6, .h03, .h04, .h05, .h06 {
  * ------------------------------------------------------------------- 
  */
  #intro {
- 	background: #151515 url(http://pnb252fwo.bkt.clouddn.com/intro-bg.jpg) no-repeat center bottom;
+ 	background: #151515 url(..images/intro-bg.jpg) no-repeat center bottom;
  	-webkit-background-size: cover;
  	-moz-background-size: cover;
  	background-size: cover;
